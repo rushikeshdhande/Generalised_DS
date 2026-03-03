@@ -2,7 +2,7 @@
 
 A comprehensive C++ template-based library implementing various data structures using a generic approach. This library provides ready-to-use implementations of linked lists, stacks, and queues with type safety and reusability.
 
-## 📋 Features
+## 📋 Features 
 
 The library includes the following data structures:
 
@@ -14,10 +14,4 @@ The library includes the following data structures:
 | Doubly Circular | DoublyCLLnode | DoublyCLL | ✓ Done |
 | Stack | Stacknode | Stack | ✓ Done |
 | Queue | Queuenode | Queue | ✓ Done |
-
-## 🚀 Getting Started
-
-### Prerequisites
-- C++ compiler with C++11 support or later
-- Basic understanding of data structures and templates
 
