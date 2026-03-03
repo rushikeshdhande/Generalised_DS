@@ -8,12 +8,12 @@ The library includes the following data structures:
 
 | Type | Node Class | Functionality Class | Status |
 |------|------------|---------------------|--------|
-| Singly Linear | SinglyLLLnode | SinglyLLL | ✅ Done |
-| Singly Circular | SinglyCLLnode | SinglyCLL | ✅ Done |
-| Doubly Linear | DoublyLLLnode | DoublyLLL | ✅ Done |
-| Doubly Circular | DoublyCLLnode | DoublyCLL | ✅ Done |
-| Stack | Stacknode | Stack | ✅ Done |
-| Queue | Queuenode | Queue | ✅ Done |
+| Singly Linear | SinglyLLLnode | SinglyLLL | ✓ Done |
+| Singly Circular | SinglyCLLnode | SinglyCLL | ✓ Done |
+| Doubly Linear | DoublyLLLnode | DoublyLLL | ✓ Done |
+| Doubly Circular | DoublyCLLnode | DoublyCLL | ✓ Done |
+| Stack | Stacknode | Stack | ✓ Done |
+| Queue | Queuenode | Queue | ✓ Done |
 
 ## 🚀 Getting Started
 
